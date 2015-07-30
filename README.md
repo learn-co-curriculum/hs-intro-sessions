@@ -1,8 +1,4 @@
----
-tags: ruby advanced, kids, intro, sessions
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 * Understand why we use sessions
