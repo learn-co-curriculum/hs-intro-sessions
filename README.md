@@ -8,4 +8,4 @@
 ---
 ### Making Memories with Your Browser
 <img align="right" src="http://www.bhavinionline.com/wp-content/uploads/2014/01/Goldfish_Memory.jpg" width="350" hspace="20"> Browsers are like goldfish - they have no memory. Every time you go from one page to the next - or click refresh - your browser completely erases any memory of what happened on the last page. So how does a web application like Twitter keep track of who you are as you move from page to page? Browsers maintain the illusion of continuity through something called cookies. 
-<a href='https://learn.co/lessons/hs-intro-sessions' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-sessions' title='Students Will Be Able To...'>Students Will Be Able To...</a> on Learn.co and start learning to code for free.</p>
